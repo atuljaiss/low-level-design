@@ -5,6 +5,8 @@
 
 The Parking Lot System is designed to manage parking spots in a multi-level parking facility. It supports multiple types of vehicles such as cars, motorcycles, and trucks, and efficiently handles the allocation and release of parking spots. The system provides real-time availability updates, handles multiple entry and exit points, and supports concurrent access for customers.
 
+![alt text](https://github.com/atuljaiss/low-level-design/blob/main/image.jpeg?raw=true)
+
 ## Features
 
 - **Multiple Levels:** The parking lot consists of multiple levels, each with a set number of parking spots.
