@@ -1,5 +1,3 @@
-PrepHere's a `.readme` file for the Parking Lot System design:
-
 ```markdown
 # Parking Lot System
 
